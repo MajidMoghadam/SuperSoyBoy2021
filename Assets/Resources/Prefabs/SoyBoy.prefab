@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3669180499085060462}
   - component: {fileID: 3669180499085060460}
   - component: {fileID: 2090385847846817004}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SoyBoy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
