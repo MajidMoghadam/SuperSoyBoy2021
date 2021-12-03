@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2090385847846817004}
   m_Layer: 8
   m_Name: SoyBoy
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -165,3 +165,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 14
   accel: 6
+  isJumping: 0
+  jumpSpeed: 8
+  airAccel: 3
+  jumpDurationThreshold: 0.25
+  jump: 14
